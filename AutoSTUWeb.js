@@ -7,7 +7,7 @@
 // @run-at       document-start
 // @match        https://sso.stu.edu.cn*
 // @grant        none
-// @license      GPL-3.0-only
+// @license      MIT License
 // ==/UserScript==
 
 (function() {
