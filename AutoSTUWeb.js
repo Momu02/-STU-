@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         AutoSTUWeb
-// @namespace    https://viayoo.com/
+// @namespace    https://github.com/Momu02/AutoSTUWeb
 // @version      1.0
 // @description  Automatically fills in the username and password and submits the data on STU CAS web.
-// @author       
+// @author       Momu02
 // @run-at       document-start
 // @match        https://sso.stu.edu.cn*
 // @grant        none
+// @license      GPL-3.0-only
 // ==/UserScript==
 
 (function() {
